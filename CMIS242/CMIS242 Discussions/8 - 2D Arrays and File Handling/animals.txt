@@ -1,0 +1,5 @@
+Animal	Legs	Habitat
+
+Dog	Four	Land
+Dolphin	Zero	Water
+Bird	Two	Tree
